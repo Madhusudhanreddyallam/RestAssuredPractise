@@ -1,4 +1,4 @@
-package NoPojo;
+package Jayway;
 
 import org.testng.annotations.Test;
 
