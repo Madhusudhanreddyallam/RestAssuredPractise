@@ -12,7 +12,7 @@ import java.util.Map;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class postUsingJayway {
+public class GetNestedUsingJayway {
 
 	@Test
 	public void test() {
