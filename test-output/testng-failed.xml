@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Schema.UpdateUserPatch">
+      <class name="auth.Certificate">
         <methods>
-          <include name="createUser"/>
+          <include name="testCase"/>
         </methods>
-      </class> <!-- Schema.UpdateUserPatch -->
+      </class> <!-- auth.Certificate -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
